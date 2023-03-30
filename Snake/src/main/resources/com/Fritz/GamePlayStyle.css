@@ -1,0 +1,11 @@
+
+#playAgain {
+    -fx-background-radius: 30px;
+    -fx-border-radius: 30px;
+    -fx-background-color: TRANSPARENT;
+}
+
+#playAgain:hover {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 30, 0.5, 0.5, 0.5);
+    -fx-cursor: hand;
+}

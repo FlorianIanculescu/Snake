@@ -1,0 +1,15 @@
+.mainMenuSceneCSS {
+    -fx-background-image: url("backgroundImage.jpg");
+    -fx-background-size: cover;
+}
+
+#playButtonCSS, #instructionsButtonCSS, #exitButtonMainMenuCSS {
+  -fx-background-radius: 30px;
+  -fx-border-radius: 30px;
+  -fx-background-color: TRANSPARENT;
+}
+
+#playButtonCSS:hover, #instructionsButtonCSS:hover, #exitButtonMainMenuCSS:hover {
+      -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 30, 0.5, 0.5, 0.5);
+      -fx-cursor: hand;
+}

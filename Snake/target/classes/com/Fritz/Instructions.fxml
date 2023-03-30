@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="990.0" styleClass="instructionsSceneCSS" stylesheets="@InstructionsStyle.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.Fritz.InstructionsController">
+    <Button id="instructionsBackToMainButtonCSS" fx:id="instructionsBackToMainButton" layoutX="414.0" layoutY="478.0" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#switchToMainMenu" text="Back" textFill="WHITE">
+        <font>
+            <Font name="Comic Sans MS Bold Italic" size="48.0" />
+        </font></Button>
+   <Label layoutX="45.0" layoutY="39.0" prefHeight="52.0" prefWidth="900.0" text="The classic snake game is a simple but addictive game where the player controls a snake to eat food and grow in length, while avoiding collisions with the walls and the snake's own body." textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="Comic Sans MS Bold Italic" size="18.0" />
+      </font>
+      <effect>
+         <DropShadow height="15.0" radius="7.0" width="15.0" />
+      </effect>
+   </Label>
+   <Label layoutX="45.0" layoutY="91.0" prefHeight="52.0" prefWidth="900.0" text="Here are the instructions for playing the game:" textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="Comic Sans MS Bold Italic" size="18.0" />
+      </font>
+      <effect>
+         <DropShadow height="15.0" radius="7.0" width="15.0" />
+      </effect>
+   </Label>
+   <Label layoutX="91.0" layoutY="143.0" prefHeight="52.0" prefWidth="850.0" text="1. Use the arrow keys on your keyboard to move the snake up, down, left, or right. The snake will move in the direction of the key you press." textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="Comic Sans MS Bold Italic" size="18.0" />
+      </font>
+      <effect>
+         <DropShadow height="15.0" radius="7.0" width="15.0" />
+      </effect>
+   </Label>
+   <Label layoutX="91.0" layoutY="203.0" prefHeight="52.0" prefWidth="850.0" text="2. The objective of the game is to eat as much food as possible, which appears as small fruits on the screen. Each time the snake eats a piece of food, its length will increase by one." textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="Comic Sans MS Bold Italic" size="18.0" />
+      </font>
+      <effect>
+         <DropShadow height="15.0" radius="7.0" width="15.0" />
+      </effect>
+   </Label>
+   <Label layoutX="91.0" layoutY="262.0" prefHeight="52.0" prefWidth="738.0" text="3. The game will become progressively more difficult as the snake grows longer, so it will be harder to control" textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="Comic Sans MS Bold Italic" size="18.0" />
+      </font>
+      <effect>
+         <DropShadow height="15.0" radius="7.0" width="15.0" />
+      </effect>
+   </Label>
+   <Label layoutX="91.0" layoutY="322.0" prefHeight="52.0" prefWidth="683.0" text="4. Try to achieve the highest score possible by eating as much food as you can before the game ends." textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="Comic Sans MS Bold Italic" size="18.0" />
+      </font>
+      <effect>
+         <DropShadow height="15.0" radius="7.0" width="15.0" />
+      </effect>
+   </Label>
+   <Label layoutX="91.0" layoutY="382.0" prefHeight="52.0" prefWidth="683.0" text="5. To pause the game, press the space bar again. To resume the game, press the space bar once more." textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="Comic Sans MS Bold Italic" size="18.0" />
+      </font>
+      <effect>
+         <DropShadow height="15.0" radius="7.0" width="15.0" />
+      </effect>
+   </Label>
+   <Label layoutX="45.0" layoutY="434.0" prefHeight="52.0" prefWidth="850.0" text="That's it! Have fun playing the classic snake game." textFill="WHITE" wrapText="true">
+      <font>
+         <Font name="Comic Sans MS Bold Italic" size="18.0" />
+      </font>
+      <effect>
+         <DropShadow height="15.0" radius="7.0" width="15.0" />
+      </effect>
+   </Label>
+</AnchorPane>

@@ -1,0 +1,20 @@
+.instructionsSceneCSS {
+    -fx-background-image: url("backgroundImage.jpg");
+    -fx-background-size: cover;
+}
+
+#instructionsBackToMainButtonCSS {
+    -fx-background-radius: 30px;
+    -fx-border-radius: 30px;
+    -fx-background-color: TRANSPARENT;
+}
+
+#instructionsBackToMainButtonCSS:hover {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 30, 0.5, 0.5, 0.5);
+    -fx-cursor: hand;
+}
+
+#instructionsText .content {
+    -fx-background-color: none;
+    -fx-text-fill: red;
+}
