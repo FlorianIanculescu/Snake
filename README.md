@@ -42,9 +42,12 @@ git clone https://github.com/FlorianIanculescu/Snake.git
   - JavaFX
 
 ## Screenshots
-![Screenshot 1](https://github.com/FlorianIanculescu/TicTacToe/assets/46021975/5e151fb7-ce01-49aa-bf62-dcea3d089954)
-![Screenshot 2](https://github.com/FlorianIanculescu/TicTacToe/assets/46021975/cf978656-cd7d-47dd-8257-24e395218202)
-![Screenshot 3](https://github.com/FlorianIanculescu/TicTacToe/assets/46021975/45e7d167-cc3f-4b16-a1bd-e39f2deba546)
-![Screenshot 4](https://github.com/FlorianIanculescu/TicTacToe/assets/46021975/8c70bf99-b4ce-4555-a32f-7f8881b63799)
+
+![Screenshot 1](https://github.com/FlorianIanculescu/Snake/assets/46021975/3b72b593-6d41-467e-8fd5-9b4b7f400784)
+![Screenshot 2](https://github.com/FlorianIanculescu/Snake/assets/46021975/0cf916cb-efa2-4ee9-a85c-d76c12ee67c9)
+![Screenshot 3](https://github.com/FlorianIanculescu/Snake/assets/46021975/9889340a-635f-49b7-b95b-fa95c185ab59)
+![Screenshot 4](https://github.com/FlorianIanculescu/Snake/assets/46021975/78a907e3-526d-411e-a092-d53064530dc4)
+![Screenshot 5](https://github.com/FlorianIanculescu/Snake/assets/46021975/41822482-2d54-44a4-ab93-25659c8a0fd8)
+
 
 ## Have Fun! 😄
