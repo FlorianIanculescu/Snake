@@ -26,15 +26,14 @@ git clone https://github.com/FlorianIanculescu/Snake.git
 ## How to play
 
   - The game starts with a small snake on the screen.
-  - Some versions of the game may begin automatically, while others require you to press a start button or key.
+  - You are asked to press a start button or key.
   - Use the arrow keys (Up, Down, Left, Right) to steer the snake in the desired direction.
-  - You'll see food items (often depicted as dots or small objects) randomly placed on the screen. Direct your snake to "eat" these food items by moving over them. Each time the snake consumes food, it grows longer.
+  - You'll see food items (small fruits) randomly placed on the screen. Direct your snake to "eat" these food items by moving over them. Each time the snake consumes food, it grows longer, each fruit having a different value
   - As the snake eats more food, it will increase in length. Growing the snake is a key aspect of the game, but it also makes maneuvering more challenging.
   - The game ends if the snake collides with:
     - The walls or screen boundaries.
     - Its own tail.
-  - When the snake collides with a wall or itself, the game is over. You will usually see your final score and an option to start a new game.
-  - After the game ends, you can usually start a new round by pressing a restart button or key.
+  - After the game ends, you can usually start a new round by pressing a restart button.
     
 ## Technologies Used
 
